@@ -9,6 +9,11 @@
  4. Run the script.
     > python liveprice.py
 
+# Screenshots
+ ![alt text](https://github.com/efexos/nepalstock/blob/master/screenshots/sc_1.png?raw=true)
+ ![alt text](https://github.com/efexos/nepalstock/blob/master/screenshots/sc_2.png?raw=true)
+ ![alt text](https://github.com/efexos/nepalstock/blob/master/screenshots/sc_3.png?raw=true)
+
  # NOTE
  The drivers folder contains selenium drivers. Which
  it uses to scrape the nepalstock site. Make sure its not modified
