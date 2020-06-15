@@ -5,9 +5,7 @@
  1. Download and Install python3.X from https://www.python.org/downloads/
  2. Install python-pip for the required version.
  3. Install the following dependencies.
-    > pip install numpy
-    > pip install pandas
-    > pip install selenium
+    > pip install numpy pandas selenium
  4. Run the script.
     > python liveprice.py
 
