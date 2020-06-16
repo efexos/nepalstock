@@ -1,5 +1,5 @@
 ![](https://img.shields.io/badge/efexos-nepalstock-brightgreen)
-![](https://img.shields.io/badge/version-2.1.4-purple)
+![](https://img.shields.io/badge/version-1.1.0-purple)
 
 ![](https://img.shields.io/badge/-Python-blueviolet)
 
